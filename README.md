@@ -11,7 +11,8 @@ In Project II I have taken care of:
 -Adding the colliders in Tiled.   
 -I've helped with the new design of the UI.    
 -The character selection scene (the art).    
--I've also been in charge of building the website (in html).     
+-I've also been in charge of building the website (in html).    
+-I've done the gameplay video.   
 
 ...
 
