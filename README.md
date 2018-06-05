@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+## Nina Lopez Bobet
 
-You can use the [editor on GitHub](https://github.com/ninalb13/personalpage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, I'm Nina and I'm the artist of No Readme Studio.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+In Project II I have taken care of:
 
-### Markdown
+...
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+-Getting the sprites of the characters.
+-Putting the sprites in Tiled.
+-Adding the colliders in Tiled.
+-I've helped with the new design of the UI.
+-The character selection scene (the art).
+-I've also been in charge of building the website (in html).
 
-```markdown
-Syntax highlighted code block
+...
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ninalb13/personalpage/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
